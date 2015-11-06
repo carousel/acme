@@ -1,0 +1,17 @@
+{
+    "name": "miro/acme",
+    "description": "Coding with best standards in mind",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Miroslav Trninic",
+            "email": "miroslav.trninic@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "application/"
+        }
+    }
+}
